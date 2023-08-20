@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+<style>
+body {
+background-color:pink;
+}
+
+h1 {
+color: purple;
+text-align: center;
+}
+
+p{
+color:black;
+font-family:verdena;
+font-size:20px;
+}
+
+img {
+width:300px;
+height:250px;
+}
+
+a:link {
+background-color: white;
+}
+</style>
+</head>
+
+<body>
+<h1> About me </h1>
+
+<p> Hi,I am farhat Iqbal, a student of Diploma in computer science engineering. and I study in Maulana Azad National Urdu University. It is in Hyderabad (Telangana).My first year is complete, and now i am in second year third semester. </p>
+
+<img src="https://i.ibb.co/X4pcdnn/maulana-azad-national-urdu-university-manuu-955449.jpg" alt= width"150px" boarder-radius"4px" height"150px"
+</img>
+
+<a href="https://imgbb.com/"> <br> this is a link </a>
+
+</body>
+</html>
+
+
+
+
+
+    
